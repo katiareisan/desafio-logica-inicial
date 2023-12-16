@@ -1,10 +1,10 @@
-let nomeHeroi = "Mulher Maravilha ";
+let nomeHeroi = "Mulher Maravilha "
 let quantidadeDeXP = 2500;
-let nivelHeroi = " ";
+let nivelHeroi = " "
 
 
 if (quantidadeDeXP <= 1000) {
-    nivelHeroi = "Ferro";
+    nivelHeroi = "Ferro"
 
 } else if (quantidadeDeXP>=1001 && quantidadeDeXP<=2000) {
     nivelHeroi = "Bronze"
@@ -28,4 +28,4 @@ if (quantidadeDeXP <= 1000) {
     nivelHeroi = "Radiante"
 }
 
-console.log("O Herói de nome " + nomeHeroi + "está no nível " + nivelHeroi);
+console.log("O Herói de nome " + nomeHeroi + "está no nível " + nivelHeroi)
