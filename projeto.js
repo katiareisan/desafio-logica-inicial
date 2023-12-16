@@ -1,5 +1,5 @@
 let nomeHeroi = "Mulher Maravilha "
-let quantidadeDeXP = 2500;
+let quantidadeDeXP = 2500
 let nivelHeroi = " "
 
 
